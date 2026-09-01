@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0018-4sum) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Two Pointers
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0018-4sum) |
+## Binary Search
+|  |
+| ------- |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
