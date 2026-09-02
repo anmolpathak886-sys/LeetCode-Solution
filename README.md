@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0018-4sum) |
+| [0051-n-queens](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0051-n-queens) |
 | [0875-koko-eating-bananas](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Two Pointers
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
