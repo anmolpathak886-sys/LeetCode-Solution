@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0018-4sum) |
+| [0141-linked-list-cycle](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sorting
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
@@ -48,5 +50,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
