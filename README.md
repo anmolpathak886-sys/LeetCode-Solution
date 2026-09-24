@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0819-most-common-word](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0819-most-common-word) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0076-minimum-window-substring) |
 | [0680-valid-palindrome-ii](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0680-valid-palindrome-ii) |
 | [0819-most-common-word](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0819-most-common-word) |
 ## Counting
@@ -82,4 +84,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
