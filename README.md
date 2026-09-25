@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0051-n-queens) |
+| [0209-minimum-size-subarray-sum](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0819-most-common-word](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0819-most-common-word) |
 | [0875-koko-eating-bananas](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0875-koko-eating-bananas](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Backtracking
@@ -87,8 +89,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
