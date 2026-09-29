@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0819-most-common-word](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0819-most-common-word) |
 | [0875-koko-eating-bananas](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Two Pointers
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0560-subarray-sum-equals-k](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0819-most-common-word](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0819-most-common-word) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -95,4 +97,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
