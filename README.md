@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0051-n-queens) |
 | [0209-minimum-size-subarray-sum](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0680-valid-palindrome-ii](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0680-valid-palindrome-ii) |
@@ -98,4 +100,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
