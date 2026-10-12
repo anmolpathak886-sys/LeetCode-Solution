@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0819-most-common-word](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0819-most-common-word) |
@@ -112,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/anmolpathak886-sys/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
